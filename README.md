@@ -14,7 +14,7 @@
     <li><strong>Text Data Processing (NLP):</strong> Utilizing Natural Language Processing techniques for text data.</li>
     <li><strong>Modeling:</strong> Employing XGBoost with an accuracy of 88%.</li>
     <li><strong>Transformer Usage:</strong> Implementing a simple transformer to process hotel reviews.</li>
-     <li><strong>Deploymen:</strong> Using stremlit for deployment.</li>
+     <li><strong>Deployment:</strong> Using stremlit for deployment.</li>
   </ol>
   <hr>
   <h2 style="color:red; font-size: 25px;">About DataSet🧐🧐</h2><br>
